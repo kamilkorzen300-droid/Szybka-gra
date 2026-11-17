@@ -1,0 +1,2 @@
+# Szybka-gra
+Cs2
